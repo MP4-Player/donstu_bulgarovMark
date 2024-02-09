@@ -8,5 +8,5 @@ begin
 end;
 
 begin
- writeln( numProg(1,10) );
+ writeln( numProg(1,125) );
 end.
